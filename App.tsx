@@ -15,7 +15,7 @@ const App = () => {
           source={require('./src/image/logo.png')}
           style={{width: 200, height: 200, marginTop:80}}
         />
-        <Text style={{fontSize: 18, fontWeight: 'bold', color: 'gray'}}>
+        <Text style={{fontSize: 18, fontWeight: 'bold', color: '#2396f2'}}>
           FENDI
             <Text style={{color: 'red'}}> 
           HIDAYAT</Text>
